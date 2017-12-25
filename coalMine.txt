@@ -1,6 +1,6 @@
 
 [Adblock Plus 2.0]
-! Title: Coal Mine
+! Title: Crypto Coal Mine
 
 ||coinobras.com^
 ||fastbitcoin.net^
