@@ -1,4 +1,5 @@
-------------------------------------------Welcome to the Kano Projeck-------------------------------------------------------
+                                    --------Welcome to the Kano Projeck---------
+
                     this my filter list maybe this list will be more effective use on adblock plus
 ----------------------------------------------------------------------------------------------------------------------------
 
