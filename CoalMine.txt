@@ -131,8 +131,6 @@
 ||kisshentai.net/Content/js/c-hive.js
 ||infinitecorp.ca^
 ||infinitecorp.ca^
-/wp-content/plugins/contact-form-7/includes/js/jquery-ui/themes/smoothness/images/binfile.php
-/soma-assets.smaato.net/js/smaatoAdTag.js
 ||goldencars.com.ua^
 ||goldendogs.nl^
 ||goldenroots.net^
