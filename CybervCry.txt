@@ -1140,7 +1140,7 @@
 ||98.143.148.173^
 
 
-
-
-
+--fix Eror--
+@@||facebook.com
+@@||fbcdn.net
 
