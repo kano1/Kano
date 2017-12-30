@@ -1,7 +1,7 @@
 
 [Adblock Plus 2.0]
 
-! Title: Garuda Speed Up
+! Title: PopUp Block
 
 -prebid.$script
 .buzz/?*=$script,~third-party,domain=todayshealth.buzz
