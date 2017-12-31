@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Title: Spyware Block(By Garuda)
+! Title: Spyware Block By Garuda
 
 /system/logs/3523523.exe
 /system/logs/43d5f67n8
