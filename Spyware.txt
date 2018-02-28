@@ -12,7 +12,6 @@
 /system/logs/98h7b66gb.exe
 /system/logs/98yhb764d.exe
 /system/logs/uy78hn654e.exe
-/sy/rq/darla/3-1-1/js/g-r-min.js
 /proxy/*_*-*
 /proxy/NB_O3g_CJZ2ByjkT1VUk1
 /alumno309/images/base.bin
