@@ -16991,6 +16991,7 @@ _nb_sys.$script,~third-party
 ||zippydownloads.com^
 ||zippyshares.biz^
 ||ziraatsuperfirsat.cf^
+||ziraatyazkampanyasi.com^
 ||zithotravel.co.za^
 ||zjfq4lnfbs7pncr5.onion.to^
 ||zjfq4lnfbs7pncr5.tor2web.org^
@@ -16999,8 +17000,21 @@ _nb_sys.$script,~third-party
 ||zlanka.com^
 ||zlippyshare.com^
 ||zomhos.com^
+||zonabn-pesegura.com^
+||zonabovirtual.com^
+||zonaenwebsegura1bn.com^
+||zonasegura-web1bn.com^
+||zonasegura.bcpmovil.ga^
+||zonasegurabcp.viaobcp.net^
+||zonaseguramovil.cf^
+||zonaseguraviabcp.enmatissperu.com^
+||zonaseguraviabcp.viatbcp.net^
+||zonaseguraviahbcp.com^
 ||zonaseguraviatbcp.com^
+||zonasequraviabcsp.net^
+||zonasguraviabcp.dvoper.com^
 ||zonderzorgen.000webhostapp.com^
+||zonedecors.in^
 ||zoneoffiles.com^
 ||zonepa.com^
 ||zonerszones.co.za^
@@ -17010,6 +17024,7 @@ _nb_sys.$script,~third-party
 ||zp9hok1daqjjc1zowog14b1urr.net^
 ||zria.saqibsiddiqui.com^
 ||zrwm.saqibsiddiqui.com^
+||zsqdvcvgjawsdv6c.com^
 ||ztuw5bvuuapzdfya.klimbim.pl^
 ||zufiles.com^
 ||zumedianetwork.com^
@@ -17019,3 +17034,4 @@ _nb_sys.$script,~third-party
 ||zynga-poker-hacks.com^
 ||zyngapoker.hackfree.us^
 ||zyngapokerchips4free.com^
+||zzsbrvzb.info^
