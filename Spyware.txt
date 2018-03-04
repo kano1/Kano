@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 ! Title: Spyware Block(By Garuda)
 
-block all tipe file
+-=block all tipe file=-
 
 /*.exe
 /*.msi
@@ -10,8 +10,13 @@ block all tipe file
 /*.docx
 /*.cookie
 /*.update
+/*pop
+/pop
+/*system
+/*window
+/login.php?next=https%3
 
-Block Scrip url
+-=Block Scrip url=-
 
 /system/logs/3523523.exe
 /system/logs/43d5f67n8
