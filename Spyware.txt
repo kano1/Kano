@@ -1,14 +1,13 @@
 [Adblock Plus 2.0]
 ! Title: Spyware Block(By Garuda)
 
--=block all tipe file=-
+-=test block all =-
 
 /*.exe
 /*.msi
 /*.pdf
 /*.doc
 /*.docx
-/*.cookie
 /*.update
 /*pop
 /pop
