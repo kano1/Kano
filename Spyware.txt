@@ -1,22 +1,6 @@
 [Adblock Plus 2.0]
 ! Title: Spyware Block(By Garuda)
 
--=test block all =-
-
-/*.exe
-/*.msi
-/*.pdf
-/*.doc
-/*.docx
-/*.update
-/*pop
-/pop
-/*system
-/*window
-/login.php?next=https%3
-
--=Block Scrip url=-
-
 /system/logs/3523523.exe
 /system/logs/43d5f67n8
 /system/logs/7t6f65g.exe
