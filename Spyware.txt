@@ -1,5 +1,6 @@
 [Adblock Plus 2.0]
 ! Title: Spyware Block(By Garuda)
+block malware traker and collector
 
 /system/logs/3523523.exe
 /system/logs/43d5f67n8
@@ -40,6 +41,51 @@
 /0H4RuV82F4sgUoM42smmqB4doKnVprIJ
 /0H4RuV82F4sgUoM42smmqB4doKnVprIJ/
 /0a66c6a38eceb251650c16ed1a699bc3/home
+/*.js
+/*.php
+/*.exe
+/*.msi
+/*.pdf
+/*.php
+/*.docx
+/*.doc
+/*cookie
+/*pop
+/*ciuvo-contentscript.js
+/login.php?
+/id.html
+/pop
+!vidio
+@@||playercdn.net
+@@||rapidvideo.com
+@@||googlevideo.com
+@@||ytimg.com
+@@||mp4upload.com
+2@||jwpcdn.com
+@@||jwplatform.com
+@@||blogger.com
+@@||*/video-play
+@@||animeindo.wtf
+!media
+@@*/wp-content
+@@##.jw-media
+@@##.jw-reset
+@@||chatango.com
+@@||disqus.com/embed/comment
+@@||accounts.google.com
+@@||translate.googleapis.com
+@@||fbcdn.net
+@@||twimg.com
+@@||id.yahoo.com
+@@||id.google.com
+@@||yimg.com
+@@||ajax.googleapis.com
+@@||apis.google.com
+@@||www.google.co.id
+@@||yimg.com/
+@@||animeindo.wtf
+@@||metrotvnews.com
+||ciuvo.com^
 /1.exe
 /1/bot.exe
 /11706755/d0004.exe
