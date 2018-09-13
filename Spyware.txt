@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 ! Title: Spyware Filter Block List
 ! Homepage: https://github.com/kano1/Kano/blob/master/Spyware.txt
-! list for keloger,system tracker,cookie collector,malware tracker, and other spyware
+! list for keloger,system tracker,cookie collector,malware tracker, and other spyware for suspicious
 
 /BANK-STORAGE.DATA/secure.document.exe
 /BANK-STORAGE.DATA/secure.document.html
@@ -10293,12 +10293,13 @@ zuuk.org###fl10
 #@##banner_ad
 #@##sponsored-ad
 #@#div[itemtype="http://schema.org/WPAdBlock"]
-
-
-||1dnscontrol.com^
+##BADRABITCARDS
+##BADRABITME
+||*.1dnscontrol.com
 ||*.bit.do^
 ||*.bravoteen.com.htmlns1.sedoparking.com^
 ||*.netsolhost.com^
+||*1dnscontrol.com.directideleteddomain.com^
 ||00005ik.rcomhost.com^
 ||001.in.ua^
 ||01ad681.netsolhost.com^
@@ -12434,6 +12435,36 @@ zuuk.org###fl10
 ||badgmvhtvryg.bid^
 ||badimalik.com^
 ||badlywantyou.top^
+||badrabbit.at^
+||badrabbit.ch^
+||badrabbit.co.kr^
+||badrabbit.co.uk^
+||badrabbit.co^
+||badrabbit.com.au^
+||badrabbit.com^
+||badrabbit.de^
+||badrabbit.dk^
+||badrabbit.eu^
+||badrabbit.info^
+||badrabbit.is^
+||badrabbit.it^
+||badrabbit.me^
+||badrabbit.net.au^
+||badrabbit.net^
+||badrabbit.online^
+||badrabbit.org^
+||badrabbit.pl^
+||badrabbit.ru^
+||badrabbit.top^
+||badrabbit.us^
+||badrabbit.win^
+||badrabbitapparel.com^
+||badrabbitblades.com^
+||badrabbitbrand.com
+||badrabbitbrewing.com^
+||badrabbitcards.co.uk^
+||badrabbitcards.com^
+||badrabbitcards.net^
 ||badu.sk^
 ||badvaruhus.se^
 ||badyna.pl^
@@ -14749,6 +14780,31 @@ zuuk.org###fl10
 ||droohsdronfhystgfh.info^
 ||droolunkin.net^
 ||drooms.nl^
+||dropboxx-doccs.com^
+||dropboxx.biz^
+||dropboxx.co.uk^
+||dropboxx.co^
+||dropboxx.com^
+||dropboxx.de^
+||dropboxx.info^
+||dropboxx.ml^
+||dropboxx.net^
+||dropboxx.nu^
+||dropboxx.review^
+||dropboxx.ru^
+||dropboxx.top^
+||dropboxx.xyz^
+||dropboxx4.com^
+||dropboxx4.us^
+||dropboxxadmin.com^
+||dropboxxed.com^
+||dropboxxers.com^
+||dropboxxinfile.com^
+||dropboxxor.com^
+||dropboxxx.com^
+||dropboxxxers.com^
+||dropboxxxxxx.com^
+||dropboxxy.net^
 ||dropmail-1.com^
 ||dropmail-2.com^
 ||dropmail-3.com^
@@ -15541,7 +15597,53 @@ zuuk.org###fl10
 ||fabiosvine.dk^
 ||fabriguard.com^
 ||fabriquekorea.com^
+||facebook-hack-account.com^
+||facebook-hack-password.net^
+||facebook-hack.com^
+||facebook-hack.nl^
+||facebook-hack.pl^
+||facebook-hacked.com^
+||facebook-hacken.nl^
+||facebook-hacken.org^
+||facebook-hacker.com^
+||facebook-hacker.ml^
+||facebook-hacking.com^
+||facebook-hacks.com^
+||facebook-hacks.eu^
+||facebook-hacks.net^
 ||facebookfan.nl^
+||facebookhack.com^
+||facebookhack.de^
+||facebookhack.icu^
+||facebookhack.net^
+||facebookhack.ooo^
+||facebookhack.org^
+||facebookhack.pl^
+||facebookhack2016.com^
+||facebookhack2018.com^
+||facebookhackaccount.net^
+||facebookhacked.com^
+||facebookhackedonline.com^
+||facebookhacken.com^
+||facebookhacken.de^
+||facebookhacken.nl^
+||facebookhackengratis.nl^
+||facebookhacker-facebookhack.com^
+||facebookhacker.com^
+||facebookhacker.net^
+||facebookhacker.nl^
+||facebookhackerdownload.com^
+||facebookhackerp.com^
+||facebookhackerpro.com^
+||facebookhackerz.com^
+||facebookhacking.com^
+||facebookhacking.net^
+||facebookhacking.ooo^
+||facebookhackonline.com^
+||facebookhacks.com^
+||facebookhacks.de^
+||facebookhacks.info^
+||facebookhacktool.net^
 ||facecapsule.com^
 ||facemais.gns1.com^
 ||facerecognition.com.ba^
@@ -15587,6 +15689,7 @@ zuuk.org###fl10
 ||fashionmekka.com^
 ||fashionsources.co.uk^
 ||fastbitcoin.net^
+||fastmonitor1.net^
 ||fastpool.pl^
 ||fastrepair-schijndel.nl^
 ||fastretail.be^
@@ -16967,6 +17070,8 @@ zuuk.org###fl10
 ||habets.info^
 ||habitatotel.com^
 ||hacca.kitunebi.com^
+||hack-mail.com^
+||hack-mail.de^
 ||hackforu.ms^
 ||haezawhdumz.bid^
 ||hafbezbemwwd.com^
@@ -20094,6 +20199,7 @@ zuuk.org###fl10
 ||maidlytsnrn.com^
 ||maihama.2jikai-p.net^
 ||mail.dr.tl^
+||mail.fastmonitor1.net^
 ||mail.grupovo.bg^
 ||mail.hukukcu.info^
 ||mail.mgeducation.org^
@@ -21576,6 +21682,7 @@ zuuk.org###fl10
 ||ns0.sedoparking.com^
 ||ns01.sedoparking.com^
 ||ns02.sedoparking.com^
+||ns1.1dnscontrol.com.directideleteddomain.com^
 ||ns1.1dnscontrol.com^
 ||ns1.firstvds.ru^
 ||ns1.grupovo.bg^
@@ -22026,6 +22133,7 @@ zuuk.org###fl10
 ||opawiftgis.com^
 ||opdfugwvncf.bid^
 ||opdmxlsdzd.bid^
+||openmonitor1.net^
 ||openroadsolutions.com^
 ||opensound.eu^
 ||openspace.pro^
@@ -22466,6 +22574,9 @@ zuuk.org###fl10
 ||pbsmzzxrmu.bid^
 ||pbuuadgoktmz.com^
 ||pbzmmqakvzhm.com^
+||pc-hack.de^
+||pc-hacker.com^
+||pc-hacker.net^
 ||pcdzsowmktz.com^
 ||pcebrrqydcox.com^
 ||pceqybrdyncq.com^
@@ -26058,6 +26169,14 @@ zuuk.org###fl10
 ||twilighttrailrun.com^
 ||twitch-stats.stream^
 ||twitchvods.pw^
+||twitter-hack.net^
+||twitterhack.com^
+||twitterhack.top^
+||twitterhacker.com^
+||twitterhacker.net^
+||twitterhackerpro.com^
+||twitterhacking.com^
+||twitterhacks.com^
 ||twiyetehf.com^
 ||twjboytcwutbrt.com^
 ||twjgylzydlhz.com^
@@ -28411,6 +28530,7 @@ zuuk.org###fl10
 ||www.falciano.it^
 ||www.farmastock.ru^
 ||www.fastbikesusa.comcastbiz.net^
+||www.fastmonitor1.net^
 ||www.fasulo.org^
 ||www.feddoctor.com^
 ||www.fenit.net^
@@ -30178,7 +30298,5 @@ zuuk.org###fl10
 ||zzwzjidz.bid^
 ||zzzort10xtest123.com^
 
-! total 30.178
-
-
+!total: 30299
 
