@@ -6924,7 +6924,6 @@
 /wan.js
 /wannaware/redirect.php?*%2Fforum%2Fuser.html
 /warcraft-lich-king.js
-/watch*$popup
 /watch*dd0c*$popup
 /watch?key=*scrHeight=1050&tz=0
 /watch?key=e722a8eea048590dd97760d8b657327b&scrWidth=1680&scrHeight=1050&tz=0
