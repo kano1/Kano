@@ -6620,7 +6620,6 @@
 /uac.js
 /uad.js
 /uae.js
-/uaest.js
 /uaf.js
 /uag.js
 /uah.js
@@ -38357,5 +38356,4 @@ zuuk.org###fl10
 ||zzzpanel.com^
 ||zzzxxx.pw^
 
-! total : 38.361 
-
+! total : 38.357
