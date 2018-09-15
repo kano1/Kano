@@ -3510,7 +3510,6 @@
 /general/New*.html
 /generate_204%20redirect
 /geoos
-/get.php
 /get/*.exe
 /get/e3943d7369aa6add911aca18b3a507f4.exe
 /getads.js$domain=gamecopyworld.com|gamecopyworld.eu
@@ -38359,5 +38358,4 @@ zuuk.org###fl10
 ||zzzxxx.pw^
 
 ! total : 38.361 
-
 
