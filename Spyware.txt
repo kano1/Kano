@@ -773,7 +773,6 @@
 /*.blue4x.fr
 /*.doc
 /*.docx
-/*.exe
 /*.pdf
 /*.php?email=abuse@*.
 /*/00610bf65bb5bbf38ccb429d21473177
@@ -38357,3 +38356,4 @@ zuuk.org###fl10
 ||zzzxxx.pw^
 
 ! total : 38.357
+
