@@ -3306,7 +3306,6 @@
 /fattura/ordine4582923332.zip?vybhzpsoxzapz0xdt
 /fattura/statistiche.zip
 /fattura/statistiche.zip?l7ucqay9bgq6i6sk
-/favicon.ico
 /favicon.ico*20HTTP/1.1\r\n
 /fazendacristal.js
 /fb.js
@@ -32929,6 +32928,8 @@ zuuk.org###fl10
 ||zzwzjidz.bid^
 ||zzzort10xtest123.com^
 ||zzzpanel.com^
+||nvztwdkbldp.com^
+||zzoxzkpqmklr.com^
+||www.zzoxzkpqmklr.com^
 
 ! total 32.931
-
