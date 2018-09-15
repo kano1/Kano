@@ -10063,7 +10063,6 @@ zuuk.org###fl10
 ##.kill-india
 ##.kill-shit
 ##.login-window[href="#stream"]
-##.noborder
 ##.remodal[data-remodal-options="hashTracking:false"][data-remodal-id="login"]
 ##.uiBoxYellow
 ##[href^="http://adscendmedia.com/"]
@@ -38356,4 +38355,5 @@ zuuk.org###fl10
 ||zzzxxx.pw^
 
 ! total : 38.357
+
 
