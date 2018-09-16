@@ -4287,7 +4287,6 @@
 /js/site.js
 /js/srdn/app.js
 /js/xfinity2/
-/js15_as.js
 /js?http://us.battle.net
 /js?http://us.battle.net/login/en/?ref=http://us.battle.net/d3
 /js?http://us.battle.net/login/en/?ref=http://us.battle.net/d3/en
@@ -38353,5 +38352,21 @@ zuuk.org###fl10
 ||zzzort10xtest123.com^
 ||zzzpanel.com^
 ||zzzxxx.pw^
+/31/4c/34/314c34ac2fe816ac5330beecda4d0bee.js
+/wu.js
+/vpp.js
+/sfp.js
+/xtik.js
+||ys3e965d.top*$popup
+||jfjuhxfllw.com^
+||xndskrtxkiv.com^
+||cfpqhrfpccmpq.com^
+||tqlypenbt.com^
+||qlypenbt.com^
+||gxxkrzrvy.com^
+||ie8eamus.com^
+||ybqqjrjf.com^
 
 ! total : 38.357
+
+
