@@ -3198,7 +3198,7 @@
 /elt/e/index.php
 /elt/e/stat.php
 /emailer/
-/en.js
+/en/flash/*.exe
 /en/flash/gh/index.html
 /en4vlvn
 /enRmcC.php
@@ -38355,5 +38355,3 @@ zuuk.org###fl10
 ||zzzxxx.pw^
 
 ! total : 38.357
-
-
