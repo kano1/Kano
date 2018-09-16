@@ -10289,6 +10289,18 @@ zuuk.org###fl10
 #@#div[itemtype="http://schema.org/WPAdBlock"]
 ##BADRABITCARDS
 ##BADRABITME
+/1042.swf
+/15.swf
+/16.swf
+/2.swf
+/202.swf
+/221.swf
+/233.swf
+/236.swf
+/249.swf
+/406.swf
+/522.swf
+/js15.js
 /*public/*/test.doc
 /*public/dridex/*/api/gbb1.exe
 /1345738008/4/1408937820.jar
@@ -38368,5 +38380,3 @@ zuuk.org###fl10
 ||ybqqjrjf.com^
 
 ! total : 38.357
-
-
