@@ -15740,6 +15740,7 @@ zuuk.org###fl10
 ||ceywprmvjy.com^
 ||cezs.pw^
 ||cezuwang.com^
+||cdn.jsdelivr.net^
 ||cfai66.fr^
 ||cfanetwork.org^
 ||cfaprogram.tw^
@@ -23212,6 +23213,7 @@ zuuk.org###fl10
 ||jsbaden.jemk.ch^
 ||jscfx.pw^
 ||jscompuserve.com^
+||jsdelivr.net^
 ||jseewggtkfrs.com^
 ||jshcxqtopxukytbugo.pw^
 ||jshjrozmwmyj.com^
@@ -38363,11 +38365,6 @@ zuuk.org###fl10
 ||zzzort10xtest123.com^
 ||zzzpanel.com^
 ||zzzxxx.pw^
-/31/4c/34/314c34ac2fe816ac5330beecda4d0bee.js
-/wu.js
-/vpp.js
-/sfp.js
-/xtik.js
 ||ys3e965d.top*$popup
 ||jfjuhxfllw.com^
 ||xndskrtxkiv.com^
@@ -38379,3 +38376,4 @@ zuuk.org###fl10
 ||ybqqjrjf.com^
 
 ! total : 38.357
+
