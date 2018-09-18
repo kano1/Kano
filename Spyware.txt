@@ -2251,7 +2251,6 @@
 /animations/pop.asp
 /ano-bisiesto
 /anonymous$popup
-/anonymous/
 /answered-polynomial-eccentricity-unserviceable/029287718218614814
 /anti
 /antivirus/ads
@@ -38376,4 +38375,3 @@ zuuk.org###fl10
 ||ybqqjrjf.com^
 
 ! total : 38.357
-
