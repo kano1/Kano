@@ -9788,7 +9788,6 @@ zuuk.org###fl10
 ##.kill-india
 ##.kill-shit
 ##.login-window[href="#stream"]
-##.noborder
 ##.remodal[data-remodal-options="hashTracking:false"][data-remodal-id="login"]
 ##.uiBoxYellow
 ##[href^="http://adscendmedia.com/"]
@@ -10236,14 +10235,13 @@ zuuk.org###fl10
 ##IE4Data
 ##IE5BAKEX
 ##IEData
-##index.php
+##index
 ##ksologViewer
 ##mobileOptiomPack
 ##polltlaromana
 ##popasp
 ##regonizerCryptolocker
 ##schedulingAgen
-##scripterror
 ##sin10s02-in-f14.1e100
 ##terortrol
 ##terroraccursoft
