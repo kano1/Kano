@@ -4431,7 +4431,6 @@
 /invisible_eorighroeig.exe
 /inywdjo
 /iool1e
-/ip*.js
 /ip.js
 /ipic
 /ipic/0b1b93e1617695e65a39891326d11674
