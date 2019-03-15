@@ -3,11 +3,6 @@
 ! Homepage: https://github.com/kano1/Kano/blob/master/Spyware_miror2.txt
 ! list for keloger,cookie collector,malware tracker, and other spyware for suspicious
 
-[Adblock Plus 2.0]
-! Title: Spyware Filter Block List
-! Homepage: https://github.com/kano1/Kano/blob/master/Spyware.txt
-! list for keloger,cookie collector,malware tracker, and other spyware for suspicious
-
 /BANK-STORAGE.DATA/secure.document.exe
 /BANK-STORAGE.DATA/secure.document.html
 /BANK-STORAGE_DATA/secure.exe
@@ -8326,4 +8321,5 @@ zuuk.org###fl10
 |ws://$other,third-party,domain=batmanstream.com
 |ws://$other,third-party,domain=fastpic.ru
 
-!total : 8329
+!total : 8324
+
