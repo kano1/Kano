@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Title: Spyware Filter Block List
+! Title: Spyware Filter Scrip
 ! Homepage: https://github.com/kano1/Kano/blob/master/Spyware_Scrip.txt
 ! list for keloger,cookie collector,malware tracker, and other spyware for suspicious
 
