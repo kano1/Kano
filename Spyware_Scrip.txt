@@ -1971,7 +1971,6 @@
 /bkpudaf.exe
 /bks7jth
 /blessed/*/Login.htm?email=abuse*.
-/block
 /blog/profile/
 /blog/profile/control.html
 /blog/wp-content/plugins*/*3993625/
