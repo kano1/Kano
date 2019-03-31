@@ -3350,7 +3350,7 @@
 /iy6mwurl
 /iyn5s
 /iza.php?i=15
-/izer/
+/izer/$popup
 /izrt8r
 /j00gr8z
 /j0fkjoss
@@ -8392,3 +8392,4 @@ zuuk.org###fl10
 |ws://$other,third-party,domain=fastpic.ru
 
 ! total : 8394
+
