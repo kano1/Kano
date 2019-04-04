@@ -3,6 +3,7 @@
 ! Homepage: https://github.com/kano1/Kano/blob/master/Spyware_Scrip.txt
 ! block phising , hacking atctivity , and malware
 
+/*globalstorage?version
 /BANK-STORAGE.DATA/secure.document.exe
 /BANK-STORAGE.DATA/secure.document.html
 /BANK-STORAGE_DATA/secure.exe
@@ -8392,4 +8393,3 @@ zuuk.org###fl10
 |ws://$other,third-party,domain=fastpic.ru
 
 ! total : 8394
-
