@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Title: Spyware Filter Block List
+! Title: Spyware Filter Block
 ! Homepage: https://github.com/kano1/Kano/blob/master/Spyware.txt
 ! list for keloger,system tracker,cookie collector,malware tracker, and other spyware for suspicious
 
-/*globalstorage?version=
+/*globalstorage?version
 /BANK-STORAGE.DATA/secure.document.exe
 /BANK-STORAGE.DATA/secure.document.html
 /BANK-STORAGE_DATA/secure.exe
