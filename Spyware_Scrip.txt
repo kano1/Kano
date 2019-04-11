@@ -4682,7 +4682,6 @@
 /microsoftexcelverification/login.php
 /microsoftexcelverification/verification.php
 /mide/att/*.php
-/mine/
 /mine/bitcoincore/*
 /miner-ui.js
 /miner.*/crypto-
@@ -5476,7 +5475,6 @@
 /rss.php?
 /rtfjwq82
 /rtuee3.html
-/runescape-autominer
 /ruses/nonsmokers.js
 /rvnfdn26
 /rvtxv1a2
@@ -8978,4 +8976,4 @@ zuuk.org###fl10
 |ws://$other,third-party,domain=batmanstream.com
 |ws://$other,third-party,domain=fastpic.ru
 
-! Total : 8977
+! total: 8979
