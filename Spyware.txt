@@ -4810,7 +4810,6 @@
 /n/3.0.25/11999301/Silver+TV+3.0.exe
 /n/3.0.25/11999301/SilverTV3.0.exe
 /n/3.0.25/12023961/Microsoft+Hesap+Makinesi++.exe
-/n/3.0.25/2629037/manual-de-configuración-del-putty.exe
 /n/3.0.25/3299664/manual-básico-de-windows-movie-maker.exe
 /n/3.0.25/4789416/LogiEscalierExpert.exe
 /n/3.0.25/7412352/BTV+Solo.exe
@@ -41584,4 +41583,4 @@ zuuk.org###fl10
 ||tertethapsindu.info^
 ||widesounro.info^
 
-! total: 41003 
+! total: 41003
