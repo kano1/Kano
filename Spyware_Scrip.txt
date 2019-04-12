@@ -44,7 +44,6 @@
 /HSBC_BANK_STORAGE-DATA/new-payment.html
 /HSBC_STORAGE.DATA/secure_payment.exe
 /HSBC_STORAGE.DATA/secure_payment.html
-
 /admin/*/order.php?*InboxLight.aspx
 /admin/*/order.php?*boxLight.aspx
 /admin/Inloggen-Wachtwoord/
@@ -3864,7 +3863,6 @@
 /idiot-security1.exe
 /idiot-security2.exe
 /idiot-security3.exe
-/ie/$popup
 /ie/IEUpdate.exe
 /ieu6kp
 /if0nczlhyi
