@@ -2466,7 +2466,6 @@
 /ad0pqg
 /ad41l1
 /adb_det
-/adbl
 /adobe/obezianka.ru/Install_Flash-Player_build11x1.e=
 /adobe/obezianka.ru/Install_Flash-Player_build11x1.exe
 /adobe/update_flash_player.exe
