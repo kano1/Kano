@@ -82,6 +82,9 @@
 /administrator/modules/*/PayPal/*/login.php
 /administrator/modules/*/action.php?
 /administrator/modules/*/bankofamerica/*/login.php
+/adobe/obezianka.ru/Install_Flash-Player_build11x1.e=
+/adobe/obezianka.ru/Install_Flash-Player_build11x1.exe
+/adobe/update_flash_player.exe
 *.sragenkab.go.id
 */cm0vv1m1*$popup
 .95j8g63f2v1b
@@ -241,8 +244,11 @@
 /*-test.ccsoft
 /*-wi-fi-router/
 /*.blue4x.fr
+/*.cmd.login
+/*.com/zeus/
 /*.doc
 /*.docx
+/*.ip*/1/show.php
 /*.pdf
 /*.php?email=abuse@*.
 /*/*merica/a0c870d6
@@ -304,6 +310,10 @@
 /*allynew*/myl/bb.php
 /*aloxx*/xx/
 /*amberfreda*/direct.php
+/*analizer*/123/index.php
+/*analystics*/in.cgi
+/*analytics*/out/
+/*analyze*/mito/
 /*astmusic*/direct.php
 /*attack*/Live-Player_setup.php
 /*avonlineprotection
@@ -375,6 +385,7 @@
 /*birth.poker--games-online*/l/the-joint.php
 /*birthphoto.jounin
 /*bishoprosannah*/k.php
+/*bissnes*/host-analyzer/
 /*bit*/1TRHK7U
 /*bithygagarta7dm.dnsrd*/d.php
 /*bitterlicks*/.sys/
@@ -1085,6 +1096,8 @@
 /*dx07m*/o.js
 /*dx0he*/o.js
 /*dychovka.eu/sloe/asses.js
+/*dynamicdns*/d.php
+/*dynamicdns*/index.php
 /*dynastycultu
 /*dzuqiqaz*/rur/
 /*dzzrenjanin*/.sys/
@@ -1127,18 +1140,46 @@
 /*funkyem*/FunkyEmoticons_setup.php
 /*gameztar*/toolbar/gameztar/download/installer/
 /*gddx*/xx/x87.css
+/*glethe*/nte/AVORP1BOBA.php
 /*globalstorage?version
 /*gomusic*/Live-Player_setup.php
+/*googla*/bl/
+/*googlem7k*/1mg/
+/*grupoa*/homebanking.bpergroup.net/index.htm
+/*gsn-ba*/stored.htm
+/*gssme*/main/controller.php
 /*gt*gt*gt*gt*]
+/*hakkacraft*/d.php
+/*hakkacraft*/search.php
 /*herobo*/ecard.zip
 /*iaytmght*/cgi-bin/index_td.cgi
+/*infostore*/info/5656519
+/*infoweb-cinema*/go/
+/*infoweb-coolinfo*/90/
 /*ingsmedia*.exe
+/*ip*/img/091.js
+/*ip*/img/092.js
+/*ip*/index.php
+/*ip*/index/two/data.exe
+/*ip*/microsoftword.exe
+/*ip*/privatezone/
+/*ip*/report.htm
+/*ip*/w.php
+/*ip-64-15-158-245*/login.php
+/*ip-97-74-181-55*/rd/
+/*ipqxx.cn/o.js
 /*jhgf*/navigator/jueoaritjuir.php
+/*jismfactory*/PayPal/Update/Secure/US/webscr.html
+/*jnby.9966*/root/1/
 /*jwtah10*a100/index.php
 /*kinshoot*download/
 /*kjdj*/navigator/jueoaritjuir.php
 /*kjsl*/navigator/jueoaritjuir.php
+/*krazykebab*/facebook/main.html
+/*kushalsolution*/facebook/main.html
 /*lamarianella
+/*lesky*/tre/lena.php
+/*lesoft*/nte/avorp1boba.asp
 /*live-player*/Live-Player_setup.php
 /*login=cmd
 /*lyaea*/w.php
@@ -1147,6 +1188,9 @@
 /*mandalayresources
 /*mberfreda.*/w.php
 /*nevadaprivateoffice*/phpmyadm/modelsearch/help/after.php
+/*no-ip*/appserv/sid1.txt
+/*no-ip*/forum.php
+/*no-ip*/k.php
 /*nstall_flash_player.exe
 /*office*/test/
 /*official-bittorrent*/Live-Player_setup.php
@@ -1164,6 +1208,7 @@
 /*ressionist*/.sys/
 /*reuter-und-kollegen*/pf3X94/index.html
 /*secure2.store.apple*1*/
+/*smar*/tre/lena.py
 /*speed-downloading*/Live-Player_setup.php
 /*spice-house
 /*spywarebot*/setup.exe
@@ -1173,6 +1218,7 @@
 /*success*/download.php
 /*support*/download.php
 /*svest*/index_13.html
+/*tatick10*/c5039d.pdf
 /*trovarapido*/Live-Player_setup.php
 /-.._._.--.._1375082870/webmail
 /.+/2/data/*validate.php?&sessioni*securessl=true
@@ -2337,6 +2383,7 @@
 /Z94n5r.exe
 /ZMTtc/TheSims4.exe&instid
 /Zdengo.Gen7
+/Zeus/bot.exe
 /Zimbra-Web-Client-Sign-In.html
 /ZoomInfo2018/Zoomlnfo
 /Zvt7c/ezcap-dvbt.rar
@@ -2450,6 +2497,7 @@
 /abfxu
 /abr.v.alg/bin/config.bin
 /abr.v.alg/gate.php?guid=User!SANDBOX2!D06F0742&ver=10299&stat=ONLINE&ie=6.0.2900.2180&os=5.1.2600&ut=Admin&ccrc=4C78BF5E&md5=dbe81c844053e377da221d2d0bdb34d4
+/absorbed/identification.js
 /abuse_report.php?issviews.com
 /ac0tk
 /ac46552b280c547668de904f9823b4a0
@@ -2466,9 +2514,6 @@
 /ad0pqg
 /ad41l1
 /adb_det
-/adobe/obezianka.ru/Install_Flash-Player_build11x1.e=
-/adobe/obezianka.ru/Install_Flash-Player_build11x1.exe
-/adobe/update_flash_player.exe
 /adrian-mann-erfahrungen-fake
 /advvll
 /aekwxxd0e
@@ -2661,6 +2706,7 @@
 /bace/a*db*e4578f
 /backup/1_1_777.exe
 /bank/bnc/details.html
+/bank/report.doc
 /bankofamerica/*&amp;session
 /bankofamerica/*/login.php?
 /bankofamerica/*cmd=login
@@ -2823,6 +2869,7 @@
 /calender/img/mwkpdhjmdbgne/absaa/index.htm
 /calender/img/mwkpdhjmdbgne/absaa/index2.php
 /canbtcc.exe
+/cao/cao.exe
 /capa.bin
 /capa.exe
 /capital
@@ -2859,6 +2906,9 @@
 /cebng2tpu2
 /ceqxwu3.html
 /cf83o1
+/cfg/miniav.psd
+/cfg/passw.psd
+/cfg/stopav.psd
 /cflow/admintj/admintj/index.htm
 /cg/biz2/
 /cg/index.php?email=
@@ -2982,6 +3032,7 @@
 /content/au/www.apple.com.au/WebObjects/iTunesConnect.html
 /content/contentthumbs/3e2d22ef2.exe
 /contiades.js
+/control/zeus/
 /controllers/*key/fpc.exe
 /controllers/*mous/fpc.html
 /controllers/*sC-S/fpc.php
@@ -3051,6 +3102,7 @@
 /css/chase/chaseall*/step2.php
 /css/drop/
 /css/report934875438jdfg8i45jg_07242014.exe
+/cssadmin9/*.confirm.onlinebankingofamerica
 /csterorist.exe
 /csuix
 /ctu8jotsp
@@ -3114,6 +3166,7 @@
 /data/css/paderfolows/n0x/ii.php?
 /data/digi-fast*.exe
 /data/digi-fast/exe
+/data/download_bearshare_pro_4.6.3_crack-bee1f7c4f0.html
 /date/9377chiyue_Y_Cdcr1124.exe
 /db.php?e=abuse@*.
 /db5z4a
@@ -3167,6 +3220,7 @@
 /digit.dat
 /dioit/rss_feeds_it/rss_plugin.exe
 /diqlfy1
+/direct/spy.exe
 /distribu
 /djdlb5
 /djz2wr
@@ -3225,6 +3279,7 @@
 /download/6.exe
 /download/7.exe
 /download/8.exe
+/download/BankTrojanKiller.exe
 /download/Xn8QP-YNVEXiJw/statement_00429116.zip
 /download/ab/ytnJx8Cd2cbHxIZmN7WyNjZzpDZobK27qmstOm6vOWsqbmRpaOvOynobTq6fsrjg6ejS1tPa0NLUwY6Aho6zhIrSDR12BA/serebro_-_skazhi_ne_molchi_zaycev_net.exe?pack
 /download/beef.tgz
@@ -3323,6 +3378,7 @@
 /ebanking/
 /ebanking/verify/login.php
 /ec1jyz3fu
+/ecard.exe
 /ecard/view/d13a46e75958b39a250f309c72705992
 /ece88l
 /eceiving/spersonlich/
@@ -3447,6 +3503,7 @@
 /fOA8Bl.exe
 /fabiocaminero.js
 /facebook%20security/
+/facebook/bot.exe
 /facebook_toolbar.exe
 /factoryfreeapparel.js
 /facture_edf.pdf.03.exe
@@ -3576,6 +3633,7 @@
 /fuckadblock.js$script
 /fuckadblock.min.js$script
 /fuckemall_dfljgsdhfog.exe
+/fuelwork.exe
 /fwytmemzsj
 /fwzysh
 /fxcx6ep
@@ -3641,6 +3699,7 @@
 /gjOREZ.php
 /gjw2cjt
 /gklbtj
+/glebk.exe
 /glorious/archive/
 /glory
 /glouswg3g
@@ -4047,6 +4106,7 @@
 /index.zip
 /index/REDoc/dwgdoc
 /index/couponsjson/
+/index/two/data.exe
 /index_subcage2.html
 /india*.exe
 /india*.pdf
@@ -5728,6 +5788,7 @@
 /sample/fb7e98bd971ee6517c4874486a1384630a1fcb6159e93f00b6902f1b2096f946
 /sandbox/uploader/js/*.php?email=abuse@*.
 /sandbox/uploader/js/alibaba/alibaba/index.php
+/sashokzeus/server*/bot.exe
 /save/icons/more_horiz_blue.svg
 /sb/n/50335087/Recuva.exe?secure=1438031171_96573aaf39b8b7fa050f6e40f28be8dc
 /sbqqd
@@ -6058,6 +6119,7 @@
 /tradium.js
 /traff01.exe
 /transdc/Adobe
+/tre/BOBA.exe
 /trg5hjs
 /trmqtsy
 /trovao4130/check.php
@@ -6448,6 +6510,7 @@
 /web/re_02.php
 /web/serasa/serasa_01.php
 /web/serasa/serasa_02.php
+/web/setup.zip
 /webapps/6010c/websrc
 /webcoin.js
 /webcoin.min.js
@@ -6473,6 +6536,7 @@
 /wigm99l
 /winjar2011.dll
 /winners/login
+/winupdate.exe
 /wj3.jpg
 /wjqpm/scripts.rar
 /wkicrz3.html
@@ -6594,6 +6658,7 @@
 /wp-content/plugins/cached_data/hsg.exe,pattern
 /wp-content/plugins/cached_data/k1.exe
 /wp-content/plugins/cached_data/pdf_complaint.zip
+/wp-content/plugins/cached_data/pdf_efax_message_3490224a1.zip
 /wp-content/plugins/check/room.php
 /wp-content/plugins/contact-form-7/includes/js/jquery-ui/themes/smoothness/images/binarystings.php
 /wp-content/plugins/contact-form-7/includes/js/jquery-ui/themes/smoothness/images/binfile.js
@@ -6914,6 +6979,7 @@
 /zeujuus/a/modules/config.bin
 /zeus/config.bin
 /zeus/gate.php
+/zeus/web/
 /zf0yx
 /zfin.html
 /zfotp.htm
@@ -9176,3 +9242,5 @@ zuuk.org###fl10
 |ws://$other,third-party,domain=fastpic.ru
 
 ! Total : 9182
+
+
