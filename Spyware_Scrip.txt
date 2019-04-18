@@ -246,10 +246,7 @@
 /*.blue4x.fr
 /*.cmd.login
 /*.com/zeus/
-/*.doc
-/*.docx
 /*.ip*/1/show.php
-/*.pdf
 /*.php?email=abuse@*.
 /*/*merica/a0c870d6
 /*/402022Rechnung.PDF.exe
@@ -6000,7 +5997,6 @@
 /syrwg2r3
 /sys_init.php
 /sysstr.php
-/system
 /system-utilities/break-monitors/544-hard-disk*.exe
 /system-utilities/injec-monitors/544-hard-disk*.html
 /system-utilities/printing
@@ -9241,5 +9237,3 @@ zuuk.org###fl10
 |ws://$other,third-party,domain=fastpic.ru
 
 ! Total : 9182
-
-
