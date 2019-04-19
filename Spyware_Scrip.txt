@@ -3,6 +3,8 @@
 ! Homepage: https://github.com/kano1/Kano/blob/master/Spyware_Scrip.txt
 ! block phising , hacking atctivity , and malware
 
+
+
 /BANK-STORAGE.DATA/secure.document.exe
 /BANK-STORAGE.DATA/secure.document.html
 /BANK-STORAGE_DATA/secure.exe
@@ -11,6 +13,21 @@
 /BANK.STORAGE.DATA/payment-document.html
 /BANK_STORAGE.DATA/new.payment.exe
 /BANK_STORAGE.DATA/new.payment.html
+/CUSTOMER~BANK_STORAGE~DATA/get~document.exe
+/CUSTOMER~BANK_STORAGE~DATA/get~document.html
+/CUSTOMER~BANK_STORAGE~DATA/get~document.pdf
+/CUSTOMER~BANK_STORAGE~DATA/get~document.php
+/CUSTOMER~BANK_STORAGE~DATA/get~document.txt
+/CUSTOMER~DOCUMENT~DATA/get~document.exe
+/CUSTOMER~DOCUMENT~DATA/get~document.html
+/CUSTOMER~DOCUMENT~DATA/get~document.pdf
+/CUSTOMER~DOCUMENT~DATA/get~document.php
+/CUSTOMER~DOCUMENT~DATA/get~document.txt
+/CUSTOMER~STORAGE/payment-documentt.exe
+/CUSTOMER~STORAGE/payment-document.html
+/CUSTOMER~STORAGE/payment-document.pdf
+/CUSTOMER~STORAGE/payment-document.php
+/CUSTOMER~STORAGE/payment-document.txt
 /HSBC-BANK_DATA/secure.payment.document.exe
 /HSBC-BANK_DATA/secure.payment.document.html
 /HSBC-BANK_STORAGE-DATA/new_secure_payment.exe
@@ -44,6 +61,7 @@
 /HSBC_BANK_STORAGE-DATA/new-payment.html
 /HSBC_STORAGE.DATA/secure_payment.exe
 /HSBC_STORAGE.DATA/secure_payment.html
+/HSBC_STORAGE_DATA/secure-payment-document.html
 /admin/*/order.php?*InboxLight.aspx
 /admin/*/order.php?*boxLight.aspx
 /admin/Inloggen-Wachtwoord/
@@ -82,14 +100,14 @@
 /administrator/modules/*/PayPal/*/login.php
 /administrator/modules/*/action.php?
 /administrator/modules/*/bankofamerica/*/login.php
-/adobe/obezianka.ru/Install_Flash-Player_build11x1.e=
-/adobe/obezianka.ru/Install_Flash-Player_build11x1.exe
-/adobe/update_flash_player.exe
+/administrator_2/renovateds.php
+/adobe/obezianka*/Install_Flash-Player_build11x1.e=
+/adobe/obezianka*u/Install_Flash-Player_build11x1.exe
 *.sragenkab.go.id
 */cm0vv1m1*$popup
 .95j8g63f2v1b
 .95j8g63f2v1b3n5f6gh32v1c3n1f56
-.accounts.logins.userids.310571.34scw3.com/wec/fbn
+.accounts.logins.userids.310571.34scw3*/wec/fbn
 .brokerage
 .buyercentral.discussion-04
 .cgi-bin.webobjects
@@ -306,6 +324,7 @@
 /*UserID&amp;userid=abuse@*.
 /*allynew*/myl/bb.php
 /*aloxx*/xx/
+/*altcontral
 /*amberfreda*/direct.php
 /*analizer*/123/index.php
 /*analystics*/in.cgi
@@ -725,6 +744,11 @@
 /*cmbpupin.site*/upa
 /*cmbpupin.site*r/aut
 /*cmcanuto*/images/12/gate
+/*cmd-login*-safety
+/*cmd-login-*cgi
+/*cmd-login-*online
+/*cmd-login-check.dispatch.verify
+/*cmd-login-submit
 /*cmd=_login-run
 /*cmd=login
 /*cmedia*/news/
@@ -956,6 +980,7 @@
 /*designe*/a.php
 /*despachanteso*/docum/alarm1290.mp3
 /*dess*/microsoftofficeupdate/
+/*detectures
 /*detroitbargainhomes*/id1.txt
 /*devilsou*/scr/
 /*devsshop*/xzeux/
@@ -1126,6 +1151,7 @@
 /*ependabl*/ecard.exe
 /*erapop*/download/
 /*errorsweeper*.exe
+/*europeras
 /*fhtlyoqzyjjof
 /*fileave*/id1.txt
 /*flash_install*.php
@@ -1148,6 +1174,7 @@
 /*gt*gt*gt*gt*]
 /*hakkacraft*/d.php
 /*hakkacraft*/search.php
+/*hedandsparsit
 /*herobo*/ecard.zip
 /*iaytmght*/cgi-bin/index_td.cgi
 /*infostore*/info/5656519
@@ -1158,8 +1185,11 @@
 /*ip*/img/092.js
 /*ip*/index.php
 /*ip*/index/two/data.exe
+/*ip*/login.php
 /*ip*/microsoftword.exe
+/*ip*/o.js
 /*ip*/privatezone/
+/*ip*/rd/
 /*ip*/report.htm
 /*ip*/w.php
 /*ip-64-15-158-245*/login.php
@@ -1189,6 +1219,7 @@
 /*no-ip*/forum.php
 /*no-ip*/k.php
 /*nstall_flash_player.exe
+/*occuracy
 /*office*/test/
 /*official-bittorrent*/Live-Player_setup.php
 /*official-emule*/Live-Player_setup.php
@@ -1196,15 +1227,20 @@
 /*onlineserv-HB.security_site.privacy.php
 /*original-solitaire*/Live-Player_setup.php
 /*oueb*allow.php
+/*pay-clicks*/1.js
+/*paypal*/index.htm
 /*pc-optimizer*/PCOptimizer_setup.php
 /*pentalgin
 /*public/*/test.doc
 /*public/dridex/*/api/gbb1.exe
+/*recialero
 /*refer=http*html*$popup
 /*refer=http:*$popup
 /*ressionist*/.sys/
 /*reuter-und-kollegen*/pf3X94/index.html
+/*rumouprote
 /*secure2.store.apple*1*/
+/*sloughva*/meine.deutsche-bank.de/
 /*smar*/tre/lena.py
 /*speed-downloading*/Live-Player_setup.php
 /*spice-house
@@ -1217,6 +1253,8 @@
 /*svest*/index_13.html
 /*tatick10*/c5039d.pdf
 /*trovarapido*/Live-Player_setup.php
+/*uthorner
+/*webscr.cmd-login
 /-.._._.--.._1375082870/webmail
 /.+/2/data/*validate.php?&sessioni*securessl=true
 /.36773683yg/?email=[*]
@@ -2345,6 +2383,7 @@
 /Ue7cHNm.exe
 /Update-Your-Paypal-Account-Information-td641687.html
 /Update/084d64ca584f94288b0f6647ef0d3fcd
+/Upload_documents_blank.exe
 /V/Docusign/*/login2.php
 /V/Docusign/*/verification.php
 /V1ygc2.exe
@@ -2511,6 +2550,7 @@
 /ad0pqg
 /ad41l1
 /adb_det
+/adobe/update_flash_player.exe
 /adrian-mann-erfahrungen-fake
 /advvll
 /aekwxxd0e
@@ -2863,6 +2903,8 @@
 /ca/ljqtafl
 /ca155/s%20(31)/login
 /calc.exe
+/calendar*/money*-PDF.exe
+/calendar/documentos/inscricao/financeiro/cofre/money-39474-48746464-33-PDF.exe
 /calender/img/mwkpdhjmdbgne/absaa/index.htm
 /calender/img/mwkpdhjmdbgne/absaa/index2.php
 /canbtcc.exe
@@ -3874,6 +3916,7 @@
 /html/xyxw/xxnews
 /htmls/payal.html
 /htmpn64
+/http*accounts_craigslist
 /http:*/tag/js/gpt.js
 /hu3sdurj
 /huca2
@@ -6490,6 +6533,7 @@
 /web/bo_02.php
 /web/bo_03.php
 /web/ch_01.php
+/web/components/com_expose/expose/img/banking.html
 /web/hot-venda/advocacia.jpg
 /web/hot-venda/hven_01.php
 /web/hot-venda/hven_02.php
@@ -6974,6 +7018,7 @@
 /zeujuus/a/modules/config.bin
 /zeus/config.bin
 /zeus/gate.php
+/zeus/scanner.exe
 /zeus/web/
 /zf0yx
 /zfin.html
@@ -7057,6 +7102,7 @@
 /~yrt*/appIdKey=*/rk.html
 /~yrt*/appIdKey=*/sms.exe
 /~yrt*/appIdKey=*/sms.html
+/~zeus/bt.exe
 ###AvisoCookieslaw
 ###COOKIE_BANNER
 ###CookieConsentDiv
@@ -7487,44 +7533,22 @@
 ##[id*="ScriptRoot"]
 ##[onclick="$(this).hide();$('#offerlst').show('slow');"]
 ##[onclick="fileice();"]
-##adtrol
-##adtrolcomplaintslist
-##adtrolfatafati
-##adtroljustmatchon
-##adtroll
-##adtrolley
-##adtrolmadwifi
-##adtrolmymojo
-##adtrology
-##adtrologyzone
-##adtrolsimkothon
-##adtrolsongrkworld
-##adtrolthemebox
-##adtrolwhatismyresults
-##adtrolznmdthemovie
 ##digit.dat
 ##flashacces
 ##index
-##index.php
 ##ksologViewer
 ##mobileOptiomPack
 ##polltlaromana
 ##popasp
 ##regonizerCryptolocker
+##regonizerCryptXXX
+##regonizerCrysis
+##regonizerBlackShades
+##regonizerJigsaw
+##regonizerApocalypse
+##regonizerkem
 ##schedulingAgen
-##scripterror
 ##sin10s02-in-f14.1e100
-##terortrol
-##terroraccursoft
-##terroreyewonder
-##terroriznyn
-##terrorlinkedinagencyaces
-##terroroneclickname
-##terrorosteopathy
-##terrorparcconline
-##terrorsrimg
-##terrortogeli
-##terroryeahguru
 ##ugetmalware
 ##vitroll
 ##w1kydor
@@ -9237,3 +9261,5 @@ zuuk.org###fl10
 |ws://$other,third-party,domain=fastpic.ru
 
 ! Total : 9182
+
+
