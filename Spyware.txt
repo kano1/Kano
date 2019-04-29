@@ -7094,7 +7094,6 @@
 ###capaAvisoPoliticaCookies_superior_mensajes
 ###cartelcookielegal
 ###catapult-cookie-bar
-###cc-notification>#cc-notification-wrapper
 ###cccwr
 ###ciasteczka
 ###confirm_cookie_use
@@ -7189,7 +7188,7 @@
 ###cookies-banner
 ###cookies-info
 ###cookies-information
-###cookies-information>.innerDiv
+###cookies-information
 ###cookies-panel
 ###cookiesInfo
 ###cookiesPop
@@ -7305,8 +7304,8 @@
 ##.eucookie_disclaimer
 ##.eucookies
 ##.footer__cookie-info
-##.fucking-priority.fucking-eu-cookies
-##.gh-banner-active>.gh-banner-active
+##.fucking-priority
+##.gh-banner-active
 ##.gn-cookie-alert
 ##.id-CookieConsent
 ##.inline.play-button.cboxElement[href="#login"]
@@ -7687,8 +7686,8 @@ cartoonnetwork.fr###sliding-popup
 cast4u.tv###notice
 cast4u.tv###video_ads_overdiv
 castrol.com##.nv-cookie-notification
-cbox.ws##[href="http://fixolas.net/"]>IMG
-cbox.ws##[href^="http://secretstory24h.com/cms/"]>IMG
+cbox.ws##[href="http://fixolas.net/"]
+cbox.ws##[href^="http://secretstory24h.com/cms/"]
 cc.au.dk###au_cookiesalert
 cdn.iubenda.com/cookie_solution/iubenda_cs.js
 cdn.tiv.pw###Advertisement1
@@ -7751,7 +7750,7 @@ cnubis.com#@#.text_ads
 cnx-software.com##img[src="/pic/support_cnx-software.png"]
 cnx-software.com##img[src="/pic/support_cnxsoft.png"]
 co-operativebank.co.uk###noticePanel
-cofunds.co.uk###idrMasthead>.idrPageRow[style*='z-index:1']
+cofunds.co.uk###idrMasthead
 coinc.es###divCookie
 comixology.fr###cookieAcknowledgement
 commentcamarche.net##.ccmcss_oic
@@ -7901,7 +7900,7 @@ filterbypass.me##.adhome-728
 firstrowas.co###ad_overlabut
 firstrowfr.eu###adblockplus
 firstrowfr.eu###fanback
-fixolas.net##[href="http://fixolas.net/"]>IMG
+fixolas.net##[href="http://fixolas.net/"]
 flashback.org###top-banner-container
 fliegen-usa.de###cc-cookie-law
 flightradar24.com##.noads
@@ -7921,12 +7920,10 @@ fontsquirrel.com###bottom_banner_ad_container
 foot.tous-sports.tv##IMG[src="http://foot.tous-sports.tv/images/blanccloses.png"]
 footdirect24.com###hid
 forum.gamespowerita.com#@##ad_block
-forum.gizmolord.com###announcement-container>#announcement-content>.no
+forum.gizmolord.com###announcement-container#announcement-content
 forum.pac-rom.com#@#.banner_ads
 forum.thgtr.com##.block_uyari
-forumdz.com###breadcrumb+center>[color="red"]>b
-forums.openpli.org###content>[style="text-align:center;"]>DIV[style="margin0auto;display:inline-block;width:728px;height:84px;border:1pxsolid#000000;text-align:center;font-family:centurygothic,arial,helvetica,sansserif;padding:4px;font-weight:bold;"]
-fossbytes.com#@##adsense
+forumdz.com###breadcrumb+center
 fotka.com###cookies_info
 fox.com.tr#@#.pub_300x250
 fox.com.tr#@#.pub_300x250m
@@ -7997,7 +7994,6 @@ generatorlinkpremium.com##.thirdsky
 generatupremium.biz##[href="http://www.hostunder.net/windows-rdp/"]
 geo.de##.lp_mwi_dialog-wrapper
 geo.de##div.lp_mwi_dialog-overlay.lp_mwi_dialog-overlay--is-active
-gg.pl##body>div:nth-of-type(2)>div
 giffgaff.com###cookies-modal
 gigaom.com##.privacy-policy
 giovanniterlingen.com#@#.text_ads
@@ -8216,7 +8212,6 @@ lfg.co,leasticoulddo.com#@#.text-ads
 lfg.co,leasticoulddo.com#@#.textAd
 lfg.co,leasticoulddo.com#@#.text_ad
 lfg.co,leasticoulddo.com#@#.text_ads
-lg.com##.wrapper>.policyChk
 liberation.fr##.cookie-notify
 lien-torrent.com###ad_divl
 lien-torrent.com###ad_divr
@@ -8243,7 +8238,6 @@ macbidouille.com###okookie-box
 macg.co###sliding-popup
 macos-app.com#@##adsense
 macuser.de##.eucookie_wrapper
-magestorm.net##.inner>.corners-top+.topiclist+DIV[style="padding:5px5px2px5px;font-size:1.1em;background-color:#ECF1F3;margin:0pxauto;text-align:center;"]
 mangamint.com,mangabird.me#@#.ad728
 masterofmalt.com###cookiePopup
 materiel.net###cookie
@@ -8272,7 +8266,6 @@ micast.tv##.adv
 microsoft.com###lca-cookie-notification
 microsoft.com##.euCookie.mscom-alertitem
 middle-earth.xenite.org##.pea_cook_wrapper
-mininova.org###content>#adspot-a+.maintable
 ministryofsound.com###ctl00_ctl00_Cookies1_UpdatePanel1
 minmote.no##.adblock-info
 mix.dj###maskads
@@ -8339,7 +8332,6 @@ ojogo.pt###moldura_ojogo
 olvg.nl###cc
 onemanga.me#@#.adblock
 online.dramacafe.in##.pm-ad-zone
-online.dramacafe.in##BODY>DIV[style^="background-color:rgb(251,236,173);position:fixed;"]
 onlive.co.uk##.top_message
 onperiscope.com#@#.adsbygoogle
 openclassrooms.com##.disclaimer.disclaimer--info.js-cookie-disclaimer
@@ -8390,7 +8382,6 @@ playerapp1.pw###divPanel
 playerapp1.pw##[id^="total"]
 playerhd1.pw,playerhd2.pw###divPanel
 playerhd1.pw,playerhd2.pw##[id^="total"]
-playonlinux.com###menu_droite>.login>div
 playwire.com#@#.adsbox
 playwire.com#@#.adsense
 playwire.com#@#.adslot
@@ -8486,8 +8477,6 @@ richersounds.com###headerCookieLaw
 rightmove.co.uk###cookiemodalbar
 rireetchansons.fr###popins
 rireetchansons.fr###upsell
-rlsbb.com###contentArea>.information
-rlsbb.movie7share.net##.information>[color="red"]>H3
 road.cc###sliding-popup
 robotcoingame.com,monstercoingame.com,wonderlandco.in#@#.adsbygoogle
 rockpapershotgun.com###ecd_opt_in_banner
@@ -8523,7 +8512,6 @@ scigacz.pl###adv_750
 scooter-chinois-4t.com#@#.adsbygoogle
 scottishfriendly.co.uk###cookieNotification
 se.pl###adb_popup
-seedpeer.me###body>#pageTop+*+#headerbox+TABLE[width="100%"]
 seekingalpha.com#@##ad_unit
 seetickets.com##.cookieslaw
 seloger.com##.container_cookies
@@ -8634,7 +8622,6 @@ tesco.com###cp
 tesco.com###tesco_cookie_widget
 theargus.co.uk##.adwarn.adblock-warning
 theatlantic.com##.cookie-disclaimer
-thebitcoinsheep.com##.col-md-6font[size="5"]>font[color="white"]>font[color="white"]
 theextopia.com##.adsbanner
 theextopia.com##.adsfoot1
 theextopia.com##.adsfoot2
@@ -8667,11 +8654,9 @@ tmgonlinemedia.nl/consent/script/consent.js$script
 tobys.dk#@#.adsbygoogle
 toluna.com###cookiesWarningBanner
 tomshw.it###cookies-privacy
-toolslib.net##.panel.panel-default>.panel-body>.center-table.block-3x2
 topfilmz.com#@##adsense
 torrent-finder.info###addon_info
 torrent-francais.com##A[onclick^="this.href='http://www.FriendlyDuck.com/AF_TA/rel/"]
-torrent-tv.ru##.page>.right-side>.section+.section+.section
 torrentproject.com##A[href^="//torrentproject.com/out/?"]
 totalmoney.pl###right_widget
 tous-sports.tv##IMG[src="http://www.tous-sports.tv/images/blanccloses.png"]
@@ -8744,7 +8729,6 @@ ungdomskort.dk###eksCookiePrompt
 unity3d.com##.cookie-dialog
 uptobox.com#@##adblocktrap
 uptobox.com#@#.ad-leader
-uptobox.com#@#.ad-leader>div[id]
 urlchecker.net###adchecker
 urlchecker.net###adchecker_btn
 urlchecker.net###ads_notify
@@ -8815,7 +8799,6 @@ worldofgnome.org#@##wog-300x250-ads
 worldofgnome.org#@#.google-ad
 wowhq.umbb.net##IMG[width="160"][height="600"]
 wowhq.umbb.net##IMG[width="970"][height="90"]
-wowhq.umbb.net##[href^="http://porreiropa.com/cms/"]>IMG
 wpmienphi.com###d7b2
 wpworld.pl,windowsowo.pl#@##adBanner
 wrzucacz.pl##P[class="info"]
@@ -8863,7 +8846,7 @@ www.sme.sk##.js-cookie-bar
 www.sosh.fr###s-cookie
 www.spotify.com##.notification-baruk-cookies
 www.sweclockers.com###adblockBanner
-www.sweclockers.com###siteHeader>.banner
+www.sweclockers.com###siteHeader
 www.t-mobile.co.uk###cookiesMessage
 www.taylorwessing.com###twCookieConsent
 www.tddirectinvesting.co.uk###cookieWindowContainer
@@ -8882,8 +8865,6 @@ www.your-move.co.uk###Footer_cookieLawBox
 wwwapps.ups.com###cookieMsg
 xboxforum.pl##.noticeContainer:not(.hidden)
 xe.com##.cookie-siteusage-notice
-xiaopan.co#@#.adsbygoogle
-xxx-image.com###footer>font>b
 xxxdownloadsfree.blogspot.com##DIV[style*="position:fixed;width:100%;top:0px;height:100%;background-color:black;z-index:100;"]
 yachtpaint.com##.cookiesPro
 yad2.co.il###sLightbox_container
@@ -41841,4 +41822,4 @@ zuuk.org###fl10
 ||tertethapsindu.info^
 ||widesounro.info^
 
-! total: 41844
+! total: 41003
